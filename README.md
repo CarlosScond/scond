@@ -14,4 +14,6 @@ Em dashboard/views.py implmentar metodo/utilizar metodo utilizando conceitos res
 O gráfico a ser utilizado é o seguinte: https://www.highcharts.com/demo/column-basic
 A biblioteca javascript do highcharts deve ser adicionada ao projeto e os dados a serem populados no grafico, não devem estar fixos no html ou no javascript e sim retornados do metodos criado no arquivo views.py.
 
+Ao final fazer pull request
+
 Att
